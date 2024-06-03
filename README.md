@@ -1,5 +1,8 @@
 # VLSI-testing
 這裡的兩組檔案分成original跟update
+
 original是我同學原本給我的
+
 update是我根據作業題目需求調整bit數跟Shift-Register數，還有加上golden signature的TOP_tb.v的testbench
+
 但是我目前還沒有辦法做出修改後的top_syn.v
